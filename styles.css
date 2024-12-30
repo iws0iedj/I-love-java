@@ -1,0 +1,32 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    gap: 100px;
+}
+
+#no-button{
+    position: absolute;
+    background-color: rgb(213, 91, 91);
+    color: white;
+    border-radius: 5px;
+    border: white;
+    width: 70px;
+    height: 70px;
+}
+#yes-button{
+    background-color: rgb(213, 91, 91);
+    color: white;
+    border-radius: 5px;
+    border: white;
+    width: 70px;
+    height: 70px;
+}
+h1{
+    color: white;
+}
+body{
+    background-color: black;
+}
